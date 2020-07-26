@@ -1,5 +1,3 @@
-Este archivo es de prueba
-Segunda prueba de modificacion
-Tercera linea de codigo para revertir error
-Cuarta linea de codigo a quitar 
-quinta linea a quitar ahora si
+for(int i=0; i<10;i++){
+  sout(arreglo[i]);
+}
