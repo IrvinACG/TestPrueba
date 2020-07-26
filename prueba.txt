@@ -1,1 +1,1 @@
-sout(arreglo.toString());
+Prueba de omision
